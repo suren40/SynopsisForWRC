@@ -1553,3 +1553,7 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+#footer1
+{
+  font-size: 0.8em;
+}
